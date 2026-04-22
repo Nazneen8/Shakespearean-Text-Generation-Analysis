@@ -28,7 +28,7 @@ This project implements a chaacter-level Recurrent Neural Network (RNN) using Py
 4. Train the model (10 epochs)
 5. Generate text from a seed input
   
-### Conclusion
+## Conclusion
 This project demonstrates how a simple RNN can learn patterns in text data and generate new sequences. While the generated text is not perfect, it reflects the model's ability to capture underlying character-level structures in Shakespearean language.
 
 
