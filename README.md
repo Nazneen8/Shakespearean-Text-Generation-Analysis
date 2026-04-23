@@ -11,6 +11,7 @@ This project implements a chaacter-level Recurrent Neural Network (RNN) using Py
 - Evaluate model performance using training loss
 
 ### Dataset
+- Source: https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 - Language: English
 - Type: Character-level text data
 
